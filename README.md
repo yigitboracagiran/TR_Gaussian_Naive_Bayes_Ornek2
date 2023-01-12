@@ -1,3 +1,5 @@
+Not: Excel dosyası ile Python kodunun aynı dizinde olması gerekmektedir.
+
 1- Veri seti okunarak Data Frame’e başarıyla aktarılmıştır.
 
 2- Veriler, %30-%70 oranında olacak şekilde test ve eğitim verisine bölünmüştür.
